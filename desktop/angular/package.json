@@ -49,7 +49,7 @@
     "autoprefixer": "^10.4.14",
     "d3": "^7.8.4",
     "data-urls": "^5.0.0",
-    "emoji-toolkit": "^7.0.1",
+    "emoji-toolkit": "^9.0.1",
     "fuse.js": "^6.6.2",
     "ng-zorro-antd": "^16.1.0",
     "ngx-markdown": "^16.0.0",
